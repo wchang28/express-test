@@ -1,0 +1,22 @@
+{
+  "name": "express-test",
+  "description": "Express Tester",
+  "main": "app.js",
+  "authors": [
+    "Wen Chang"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.5.0",
+    "w3-css": "git://github.com/wchang28/w3-css.git"
+  }
+}

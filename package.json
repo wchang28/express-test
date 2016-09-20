@@ -1,0 +1,16 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "Express Tester",
+  "author": {
+    "name": "Wen Chang",
+    "email": "wchang28@hotmail.com"
+  },
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
